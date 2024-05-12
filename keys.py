@@ -1,0 +1,2 @@
+key = 'w7eIzNnotSCB81kSE2pREnOSnoI6ThfAa6rYkIUODPCKLh4hJ16dRn7gKmzbELxE'
+secret = 'xoKLzwrQmOtskAXLBkS4Kjgjzf283S4LH4A8tp77cSsPcBqQRfwkQHuK0J15lVIE'
